@@ -1,0 +1,11 @@
+my-class {
+  border: 2px seagreen;
+}
+
+box1 {
+  width:50%;
+  border: black;
+  border-width: 1px;
+  background-color: steelblue
+  margin-bottom: 10px;
+}
