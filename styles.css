@@ -1,8 +1,19 @@
+title{
+  background-color: plum;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: "300px";
+}
+.only {
+  color: yellow;
+  font-size: "130ps"
+}
+
 my-class {
   border: 2px seagreen;
 }
 
-box1 {
+.box1 {
   width:50%;
   border: black;
   border-width: 1px;
